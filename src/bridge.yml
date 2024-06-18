@@ -32,6 +32,6 @@ networks:
       config:
         - subnet: 192.168.0.0/16
 
-# docker-compose -f src/ipam.yml up -d
-# docker-compose -f src/ipam.yml down
+# docker-compose -f src/bridge.yml up -d
+# docker-compose -f src/bridge.yml down
 
